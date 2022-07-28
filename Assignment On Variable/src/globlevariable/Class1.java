@@ -18,7 +18,7 @@ public void R2() {
 public static void main(String[] args) {
 	Class1 S =new Class1();
 	S.D1();
-	S.D2();
+	S.R2();
 	System.out.println(S.A);
 	System.out.println(S.B);
 }
