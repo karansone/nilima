@@ -9,7 +9,7 @@ public void D1() {
 	System.out.println(c);
 	System.out.println(d);
 }
-public void D2() {
+public void R2() {
 	int e=80;
 	char f='&';
 	System.out.println(e);
